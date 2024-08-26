@@ -2,10 +2,10 @@
 <h2 title="hehehe"> Hey 👋, I'm Luis!</h2>
 
 <a href="https://www.linkedin.com/in/luisesuareza">
-  <img align="left" alt="Luis's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Luis's LinkdeIn" width="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/LuisESuarezA">
-  <img align="left" alt="Luis's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Luis's Facebook" width="24px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" />
 </a>
 <br>
 <br>
