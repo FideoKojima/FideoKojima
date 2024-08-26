@@ -36,6 +36,7 @@ Hi there, I'm **Luis Suarez**, a **Software Engineering student** 🚀 from Sant
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=FideoKojima&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Luis's GitHub Stats">
